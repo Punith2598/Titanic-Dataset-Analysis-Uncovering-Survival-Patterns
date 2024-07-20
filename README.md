@@ -29,3 +29,4 @@ The Random Forest model achieves an accuracy of approximately 82% on the validat
    ```bash
    git clone https://github.com/Punith2598/Titanic-Dataset-Analysis-Uncovering-Survival-Patterns.git
    cd Titanic-Dataset-Analysis-Uncovering-Survival-Patterns
+
