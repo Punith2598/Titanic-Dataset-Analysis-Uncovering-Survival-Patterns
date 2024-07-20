@@ -19,9 +19,6 @@ This project analyzes the Titanic dataset to predict passenger survival using ma
 ## Results
 The Random Forest model achieves an accuracy of approximately 82% on the validation set.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 - **Punith**: [punithbs2598@gmail.com](mailto:punithbs2598@gmail.com)
 
